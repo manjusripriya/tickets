@@ -40,9 +40,7 @@ if(!isset($_SESSION['user']))
     <![endif]-->
 
 </head>
-
 <body>
-
     <div id="wrapper">
 
         <!-- Navigation -->
